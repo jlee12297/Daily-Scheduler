@@ -21,6 +21,7 @@ textarea {
   border-bottom: 10px solid black;
 }
 
+/* adding customization for the date display in the header */
 #currentDay {
   padding-top: 25px;
   margin-bottom: 0;

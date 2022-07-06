@@ -135,7 +135,6 @@ var button9 = $('#btn9');
 
 button9.on('click', function () {
     description9 = $('input[id="desc9"]').val();
-    console.log(description9);
     localStorage.setItem("description9", JSON.stringify(description9));
 
     })
@@ -146,7 +145,6 @@ var button10 = $('#btn10');
 
 button10.on('click', function () {
     var description10 = $('input[id="desc10"]').val();
-    console.log(description10);
     localStorage.setItem("description10", JSON.stringify(description10));
     
     })
@@ -157,7 +155,6 @@ var button11 = $('#btn11');
 
 button11.on('click', function () {
     var description11 = $('input[id="desc11"]').val();
-    console.log(description11);
     localStorage.setItem("description11", JSON.stringify(description11));
     
     })
@@ -168,7 +165,6 @@ var button12 = $('#btn12');
 
 button12.on('click', function () {
     var description12 = $('input[id="desc12"]').val();
-    console.log(description12);
     localStorage.setItem("description12", JSON.stringify(description12));
         
     })
@@ -179,7 +175,6 @@ var button13 = $('#btn13');
 
 button13.on('click', function () {
     var description13 = $('input[id="desc13"]').val();
-    console.log(description13);
     localStorage.setItem("description13", JSON.stringify(description13));
     
     })
@@ -190,7 +185,6 @@ var button14 = $('#btn14');
 
 button14.on('click', function () {
     var description14 = $('input[id="desc14"]').val();
-    console.log(description14);
     localStorage.setItem("description14", JSON.stringify(description14));
     
     })
@@ -201,7 +195,6 @@ var button15 = $('#btn15');
 
 button15.on('click', function () {
     var description15 = $('input[id="desc15"]').val();
-    console.log(description15);
     localStorage.setItem("description15", JSON.stringify(description15));
     
     })
@@ -212,7 +205,6 @@ var button16 = $('#btn16');
 
 button16.on('click', function () {
     var description16 = $('input[id="desc16"]').val();
-    console.log(description16);
     localStorage.setItem("description16", JSON.stringify(description16));
     
     })
@@ -223,7 +215,6 @@ var button17 = $('#btn17');
 
 button17.on('click', function () {
     var description17 = $('input[id="desc17"]').val();
-    console.log(description17);
     localStorage.setItem("description17", JSON.stringify(description17));
     
     })
